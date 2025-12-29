@@ -1,42 +1,45 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<div align="center">
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+# ✨ Fullstack Chat & Video Calling App
 
-Highlights:
+**Connect globally with real-time messaging, video calls, and much more**
 
-- 🌐 Real-time Messaging with Typing Indicators & Reactions
-- 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
-- 🔐 JWT Authentication & Protected Routes
-- 🌍 Language Exchange Platform with 32 Unique UI Themes
-- ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
-- 🧠 Global State Management with Zustand
-- 🚨 Error Handling (Frontend & Backend)
-- 🚀 Free Deployment
-- 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+[View Demo](#) · [Report Bug](#) · [Request Feature](#)
+
+</div>
 
 ---
 
-## 🧪 .env Setup
+## 🚀 Key Features
 
-### Backend (`/backend`)
-
-```
-PORT=5001
-MONGO_URI=your_mongo_uri
-STEAM_API_KEY=your_steam_api_key
-STEAM_API_SECRET=your_steam_api_secret
-JWT_SECRET_KEY=your_jwt_secret
-NODE_ENV=development
-```
-
-### Frontend (`/frontend`)
-
-```
-VITE_STREAM_API_KEY=your_stream_api_key
-```
+* **🌐 Real-time Messaging:** Instant chat with typing indicators and emoji reactions.
+* **📹 Video Conferencing:** High-quality 1-on-1 and Group video calls with screen sharing & recording capabilities.
+* **🌍 Language Exchange:** Built-in support for 32 unique UI themes and language translation tools.
+* **🔐 Secure Authentication:** JWT-based protection with robust route guarding.
+* **🧠 State Management:** Powered by **Zustand** for global state and **TanStack Query** for async data.
+* **🎨 Modern UI:** Sleek, responsive design built with **TailwindCSS**.
 
 ---
+
+## 🛠️ Tech Stack
+
+| Component | Technology |
+| :--- | :--- |
+| **Frontend** | React.js, TailwindCSS, Zustand, TanStack Query |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Real-time** | Socket.io / Stream SDK |
+| **Deployment** | Render (Backend), Vercel/Netlify (Frontend) |
+
+---
+
+## ⚙️ Installation & Setup Guide
+
+Follow these steps to get the project running locally on your machine.
 
 ## 🔧 Run the Backend
 
