@@ -6,9 +6,7 @@
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
-[View Demo](#) · [Report Bug](#) · [Request Feature](#)
 
 </div>
 
@@ -32,7 +30,6 @@
 | **Frontend** | React.js, TailwindCSS, Zustand, TanStack Query |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
-| **Real-time** | Socket.io / Stream SDK |
 | **Deployment** | Render (Backend), Vercel/Netlify (Frontend) |
 
 ---
